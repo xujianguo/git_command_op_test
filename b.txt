@@ -1,2 +1,0 @@
-secretid="***REMOVED***"
-secretkey="***REMOVED***"
